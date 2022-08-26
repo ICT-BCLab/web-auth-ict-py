@@ -15,6 +15,7 @@ cd web-auth-ict-2208/tools && pip install selenium-3.4.3-py2.py3-none-any.whl
 ### 运行上网脚本
 
 ```shell
+cd ..
 #工作目录在web-auth-ict-2208下
 python web-auth-ict.py
 ```
